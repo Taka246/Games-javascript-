@@ -1,0 +1,18 @@
+canvas {
+    display: block;
+    margin: 10px 200px;
+    border: 10px ridge black;
+
+}
+.header{
+    color:orange;
+    font-size:40px;
+}
+.sidebar li{
+    background-color:cyan;
+    width:100px;
+    height:40px;
+    margin:30px 15px;
+    padding:20px;
+    float:left;
+}
